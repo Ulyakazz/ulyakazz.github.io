@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Резюме</title>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="header">
+      <h1>Валентин Гуглов</h1>
+      <h2 class="header-title">Веб-разработчик</h2>
+      <p>
+        <a href="mailto:new@somemail.com">new@somemail.com</a>
+        <a href="https://www.youtube.com" target="_blank">youtube.com</a>
+      </p>
+    </div>
+    <div id="main">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ipsum
+      sunt asperiores, ad laborum totam autem quis expedita fuga porro dolor
+      eaque quasi similique provident tempora? Quo asperiores ut debitis
+      assumenda molestias dolor praesentium quia placeat provident aspernatur
+      reiciendis consequuntur aliquid nulla eius, expedita mollitia corrupti
+      dolorem vitae.
+      <p>
+        Libero debitis hic et aliquam voluptates iure dicta minus cumque,
+        aspernatur consequatur rerum a placeat ea consequuntur asperiores,
+        repellat sequi ad perferendis illum, animi recusandae quidem omnis! Illo
+        explicabo architecto a numquam nesciunt eaque quo laboriosam doloremque
+        enim eligendi sequi atque iure minus earum magnam, repellat suscipit
+        sunt.
+      </p>
+      Quo, illum sit! Magnam.
+      <p></p>
+      <h2>Опыт работы</h2>
+      <p>
+        <big>Компания социальной сети "Vkontakte"</big><br />
+        Тестировщик, <i>январь 2017-январь 2018</i>
+      </p>
+      <ul>
+        <li>Проверка кода на наличие ошибок</li>
+        <li>Разработка решений для оптимизации веб-сайта</li>
+        <li>Решение несложных задач на С№</li>
+      </ul>
+      <p>
+        <big>ООО "Красное и белое"</big><br />
+        Web-дизайнер сайта, <i>февраль 2018-ноябрь 2018</i>
+      </p>
+      <ul>
+        <li>Разработка и верстка веб-сайта</li>
+        <li>Поддержка и внесение корректировок</li>
+      </ul>
+
+      <h2>Образование</h2>
+      <p>
+        <big>Московский Государственный Университет</big>
+        <br />
+        Бакалавр, направление подготовки: "Прикладная информатика и математика",
+        <i>2013-2017</i>
+      </p>
+      <p>
+        <big>Hexlet</big>
+        <br />
+        Курсы по программированию, Python, <i>июль 2017-декабрь 2017</i>
+      </p>
+      <h2>Другие навыки и увлечения</h2>
+      <ul>
+        <li>Дизайн приложений</li>
+        <li>Тренажерный зал</li>
+        <li>Игра на гитаре и пианино</li>
+      </ul>
+    </div>
+    <div id="footer">
+      <address>
+        <p>
+          <b>Валентин Гуглов</b> <br />
+          ул. Программистов, 55, Москва, Россия,
+          <a href="tel:+78000000001">+7-800-000-00-01</a>,
+          <a href="mailto:new@somemail.com">new@somemail.com</a>
+        </p>
+      </address>
+    </div>
+  </body>
+</html>
